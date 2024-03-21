@@ -1,0 +1,11 @@
+{
+    "name": "user-account-manager",
+    "version": "1.0.0",
+    "description": "A lightweight Node.js package for managing user accounts, authentication, and token generation.",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    }
+  }
+ 
+  
