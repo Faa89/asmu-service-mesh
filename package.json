@@ -13,7 +13,7 @@
     "keywords": [
         "npm",
         "mesh"
-    ],
+    ],        
     "dependencies": {
         "asmu-service-mesh": "^1.0.1",
         "axios": "^1.6.8",
